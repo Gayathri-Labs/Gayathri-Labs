@@ -1,30 +1,32 @@
 <div align="center">
 
-<!-- Animated Typing Tagline -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=220&section=header&text=Gayathri%20Senthamilselvan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Decisions&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Gayathri+Senthamilselvan;Data+Analyst+%7C+Turning+Raw+Data+into+Decisions+%F0%9F%93%8A;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Curious.+Analytical.+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Data+Cleaning+%E2%80%A2+ETL+%E2%80%A2+EDA+%E2%80%A2+Dashboards;Curious.+Analytical.+Always+Learning" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://media.giphy.com/media/t2cBOuEOoOsWmyUSZs/giphy.gif" width="400"/>
 
 </div>
 
 <br/>
 
-### 👋 About Me
+## 👋 About Me
 
 - 🔍 Data Analyst who loves turning messy numbers into clear, actionable stories
 - 🛠️ Skilled in **SQL, Python, Power BI, and Excel** for end-to-end analysis — from data cleaning to dashboards
 - 📊 Passionate about **EDA, ETL, KPI reporting, and data-driven decision-making**
 - 🌱 Currently sharpening skills in **data operations, monitoring, and production support**
 - 📍 Based in Thanjavur, Tamil Nadu, India
-- ⚡ Fun fact: I get genuinely excited when a messy dataset finally makes sense!
 
 <br/>
 
-### 🧰 Tech Stack
+## 🎯 What I'm Looking For
+
+Actively seeking **Data Analyst / Junior Data Analyst** opportunities where I can apply my skills in SQL, Python, and BI tools to solve real business problems — and keep growing into data operations and analytics engineering.
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -38,7 +40,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logoColor=white)
 
 **Python Libraries**
 
@@ -57,40 +59,35 @@
 
 <br/>
 
-### 📜 Certifications
+## 💡 Core Strengths
 
-- 🏅 IBM Data Analytics Fluency Pathway
-- 🏅 Data Analytics Essentials — Cisco Networking Academy
-- 🏅 Deloitte Australia Data Analytics Job Simulation — Forage
+`Analytical Thinking` &nbsp;•&nbsp; `Problem Solving` &nbsp;•&nbsp; `Troubleshooting` &nbsp;•&nbsp; `Attention to Detail` &nbsp;•&nbsp; `Critical Thinking`
 
 <br/>
 
-### 📈 GitHub Stats
+## 📜 Certifications
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-Labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Labs&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-Labs&theme=tokyonight&hide_border=true" />
-</div>
+- 🏅 **IBM Data Analytics Fluency Pathway**
+- 🏅 **Data Analytics Essentials** — Cisco Networking Academy
+- 🏅 **Deloitte Australia Data Analytics Job Simulation** — Forage
 
 <br/>
 
-### 🤝 Connect With Me
+## 🚀 Currently Exploring
+
+Data operations workflows, monitoring & troubleshooting practices, and how analytics teams support production systems — building toward a well-rounded, deployment-aware analyst skillset.
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/offgayu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamgayu7@gmail.com)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Gayathri-Labs&color=blueviolet&style=for-the-badge)
+*Open to Data Analyst roles — always happy to connect and talk data!*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2E9EF7&height=100&section=footer" width="100%"/>
