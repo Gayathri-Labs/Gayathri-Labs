@@ -10,7 +10,7 @@
 
 ![Projects](https://img.shields.io/badge/Projects_Completed-5-2E9EF7?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively_Job_Hunting-brightgreen?style=for-the-badge)
-
+![Location](https://img.shields.io/badge/Based_in-Thanjavur,_India-blue?style=for-the-badge)
 
 </div>
 
@@ -28,11 +28,21 @@
 
 ## 🔄 How I Work With Data
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["📥<br/>Collect Data"] --> B["🧹<br/>Clean Data"]
+    B --> C["🔍<br/>Explore & Analyze"]
+    C --> D["⚙️<br/>Model & Transform"]
+    D --> E["📊<br/>Visualize"]
+    E --> F["💡<br/>Deliver Insights"]
 
-`Collect` ➜ `Clean` ➜ `Explore (EDA)` ➜ `Model` ➜ `Visualize` ➜ `Deliver Insights`
-
-</div>
+    style A fill:#2E9EF7,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style B fill:#3CA7F2,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#4EB4EE,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#5AC0EA,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#64CCE6,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style F fill:#6DD5FA,stroke:#ffffff,stroke-width:2px,color:#ffffff
+```
 
 Every project starts with messy, real-world data — missing values, duplicates, inconsistent formats — and ends with a dashboard or report a business team can actually act on. That transformation is what I enjoy most.
 
