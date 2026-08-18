@@ -10,7 +10,7 @@
 
 ![Projects](https://img.shields.io/badge/Projects_Completed-5-2E9EF7?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively_Job_Hunting-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based_in-Thanjavur,_India-blue?style=for-the-badge)
+
 
 </div>
 
