@@ -28,23 +28,7 @@
 
 ## 🔄 How I Work With Data
 
-```mermaid
-flowchart LR
-    A["📥<br/>Collect Data"] --> B["🧹<br/>Clean Data"]
-    B --> C["🔍<br/>Explore & Analyze"]
-    C --> D["⚙️<br/>Model & Transform"]
-    D --> E["📊<br/>Visualize"]
-    E --> F["💡<br/>Deliver Insights"]
-
-    style A fill:#2E9EF7,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style B fill:#3CA7F2,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style C fill:#4EB4EE,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style D fill:#5AC0EA,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style E fill:#64CCE6,stroke:#ffffff,stroke-width:2px,color:#ffffff
-    style F fill:#6DD5FA,stroke:#ffffff,stroke-width:2px,color:#ffffff
-```
-
-Every project starts with messy, real-world data — missing values, duplicates, inconsistent formats — and ends with a dashboard or report a business team can actually act on. That transformation is what I enjoy most.
+<img width="2400" height="400" alt="image" src="https://github.com/user-attachments/assets/5a8732f5-bae1-4937-b098-2d683c52f888" />
 
 <br/>
 
