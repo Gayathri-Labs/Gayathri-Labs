@@ -28,7 +28,8 @@
 
 ## 🔄 How I Work With Data
 
-<img width="2400" height="400" alt="image" src="https://github.com/user-attachments/assets/5a8732f5-bae1-4937-b098-2d683c52f888" />
+<img width="2400" height="520" alt="image" src="https://github.com/user-attachments/assets/4fcd4759-2027-492f-a45c-1cbce32a64ec" />
+
 
 <br/>
 
@@ -139,7 +140,8 @@ Currently building out repositories for each project above with full documentati
 
 ## 💡 Core Strengths
 
-`Analytical Thinking` &nbsp;•&nbsp; `Problem Solving` &nbsp;•&nbsp; `Troubleshooting` &nbsp;•&nbsp; `Attention to Detail` &nbsp;•&nbsp; `Critical Thinking`
+<img width="1800" height="1500" alt="image" src="https://github.com/user-attachments/assets/8d5efd1d-1fa1-48c6-b4de-6ee79ecf142b" />
+
 
 <br/>
 
